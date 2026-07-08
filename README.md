@@ -18,8 +18,7 @@ The dataset contains unemployment statistics across different regions of India.
 * Estimated Employed
 * Estimated Labour Participation Rate (%)
 * Area
-
-  Dataset file: Unemployment.csv
+Dataset file: Unemployment.csv
 
 ## Technologies Used
 
