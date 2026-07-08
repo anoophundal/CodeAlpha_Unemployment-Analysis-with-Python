@@ -10,6 +10,7 @@ To analyze unemployment data and uncover patterns that influence employment leve
 
 ## Dataset Features
 
+The dataset contains unemployment statistics across different regions of India.
 * Region
 * Date
 * Frequency
@@ -17,6 +18,8 @@ To analyze unemployment data and uncover patterns that influence employment leve
 * Estimated Employed
 * Estimated Labour Participation Rate (%)
 * Area
+
+  Dataset file: Unemployment.csv
 
 ## Technologies Used
 
