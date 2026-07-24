@@ -60,8 +60,7 @@ Dataset file: Unemployment.csv
 
 The findings can assist policymakers in designing employment-generation programs, workforce development initiatives, and region-specific economic recovery strategies.
 
-## Author
+## 👤 Author
 
-Anoop Kaur
-B.Tech CSE (AI & ML)
-Akal University, Punjab
+**Anoop Kaur**  
+B.Tech CSE (Honours) – Artificial Intelligence & Machine Learning  
